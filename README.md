@@ -28,8 +28,8 @@ Work Status Agent is a desktop application that monitors user activity, captures
     ├── tests/
     │   ├── __init__.py
     │   ├── test_gui.py
-    │   ├── test_integration.py  # Integration tests
-    │   ├── test_monitoring.py   # Unit tests for the monitoring module
+    │   ├── test_integration.py  # File for Integration tests.
+    │   ├── test_monitoring.py   # File for Unit tests for the monitoring of the application.
     │   ├── test_poller.py
     │   ├── test_utils.py 
     │  
