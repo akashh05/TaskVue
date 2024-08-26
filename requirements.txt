@@ -1,0 +1,6 @@
+boto3==1.28.6         # AWS SDK for Python, used for S3 and other AWS services
+requests==2.31.0      # For making HTTP requests in the poller
+flask==2.3.3          # If you have a web interface, Flask could be used
+pytest==7.4.0         # Testing framework
+pytest-mock==3.11.1   # Mocking utilities for pytest
+mock==5.1.0           # For unittest mocking if you're not using pytest-mock

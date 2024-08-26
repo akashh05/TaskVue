@@ -1,0 +1,15 @@
+[
+  "tests/test_integration.py::TestIntegration::test_monitor_with_config_update",
+  "tests/test_monitoring.py::TestMonitor::test_activity_tracking",
+  "tests/test_monitoring.py::TestMonitor::test_initialize_s3_client_failure",
+  "tests/test_monitoring.py::TestMonitor::test_initialize_s3_client_success",
+  "tests/test_monitoring.py::TestMonitor::test_monitor_screenshot_taken",
+  "tests/test_monitoring.py::TestMonitor::test_monitor_screenshot_upload",
+  "tests/test_monitoring.py::TestMonitor::test_no_activity_skip_screenshot",
+  "tests/test_monitoring.py::TestMonitor::test_stop_monitoring",
+  "tests/test_monitoring.py::TestMonitor::test_track_activity",
+  "tests/test_poller.py::TestConfigPoller::test_poll_network_failure",
+  "tests/test_poller.py::TestConfigPoller::test_poll_successful_response",
+  "tests/test_utils.py::TestUtils::test_upload_with_retry_fail",
+  "tests/test_utils.py::TestUtils::test_upload_with_retry_success"
+]

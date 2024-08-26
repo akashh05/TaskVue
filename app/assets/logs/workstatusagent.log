@@ -1,0 +1,75 @@
+ERROR:root:Upload attempt 1 failed: An HTTP Client raised an unhandled exception: Invalid header value b'AWS4-HMAC-SHA256 Credential=AKIAZHQJQDRN5K5UZE4F\n/20240825/ap-south-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=12cd7c1689d9693fbe50eebc9da680fec97b8592ee650206436cf6cfd79a7771'
+ERROR:root:Upload attempt 2 failed: An HTTP Client raised an unhandled exception: Invalid header value b'AWS4-HMAC-SHA256 Credential=AKIAZHQJQDRN5K5UZE4F\n/20240825/ap-south-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=92d5e7928ee96599c65e05d868092e8811e53eba1a6232eee1fa8fa1d0d844ed'
+ERROR:root:Upload attempt 3 failed: An HTTP Client raised an unhandled exception: Invalid header value b'AWS4-HMAC-SHA256 Credential=AKIAZHQJQDRN5K5UZE4F\n/20240825/ap-south-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=660dd85ee680044dcbd4b6c22f06ba977d1c080d1275cca97f47abfd78318881'
+ERROR:root:Upload attempt 1 failed: An HTTP Client raised an unhandled exception: Invalid header value b'AWS4-HMAC-SHA256 Credential=AKIAZHQJQDRN5K5UZE4F\n/20240825/ap-south-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=2c92ef5102558989b37b8561e2e1d4cd3e064dcc9350d2288b6569575c7f9da0'
+ERROR:root:Upload attempt 2 failed: An HTTP Client raised an unhandled exception: Invalid header value b'AWS4-HMAC-SHA256 Credential=AKIAZHQJQDRN5K5UZE4F\n/20240825/ap-south-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=caeea23a331794d896a682c182756930d7b546619094b1b3789bb43039952feb'
+ERROR:root:Upload attempt 3 failed: An HTTP Client raised an unhandled exception: Invalid header value b'AWS4-HMAC-SHA256 Credential=AKIAZHQJQDRN5K5UZE4F\n/20240825/ap-south-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=447b960526e6c1f12fe4acd3d5a75f33fdbcb45856ac214463064946ca8571f1'
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_173554.png to mypublicbucket1234567809/screenshots/20240825_173554.png
+ERROR:root:Upload attempt 1 failed: cannot schedule new futures after interpreter shutdown
+ERROR:root:Upload attempt 2 failed: cannot schedule new futures after interpreter shutdown
+ERROR:root:Upload attempt 3 failed: cannot schedule new futures after interpreter shutdown
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_173920.png to mypublicbucket1234567809/screenshots/20240825_173920.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_174021.png to mypublicbucket1234567809/screenshots/20240825_174021.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_174123.png to mypublicbucket1234567809/screenshots/20240825_174123.png
+ERROR:root:Upload attempt 1 failed: cannot schedule new futures after interpreter shutdown
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_231556.png to mypublicbucket1234567809/screenshots/20240825_231556.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_231658.png to mypublicbucket1234567809/screenshots/20240825_231658.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_175050.png to mypublicbucket1234567809/screenshots/20240825_175050.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_175254.png to mypublicbucket1234567809/screenshots/20240825_175254.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_233720.png to mypublicbucket1234567809/screenshots/20240825_233720.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_235617.png to mypublicbucket1234567809/screenshots/20240825_235617.png
+INFO:root:Checking firewall status...
+INFO:root:Successfully uploaded screenshots/20240826001343.png to mypublicbucket1234567809/20240826001343.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_001516.png to mypublicbucket1234567809/screenshots/20240826_001516.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_001618.png to mypublicbucket1234567809/screenshots/20240826_001618.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_001719.png to mypublicbucket1234567809/screenshots/20240826_001719.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_022506.png to mypublicbucket1234567809/screenshots/20240826_022506.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_022607.png to mypublicbucket1234567809/screenshots/20240826_022607.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_022708.png to mypublicbucket1234567809/screenshots/20240826_022708.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240825_210441.png to mypublicbucket1234567809/screenshots/20240825_210441.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_114332.png to mypublicbucket1234567809/screenshots/20240826_114332.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_114433.png to mypublicbucket1234567809/screenshots/20240826_114433.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_121831.png to mypublicbucket1234567809/screenshots/20240826_121831.png
+ERROR:root:Upload attempt 1 failed: Upload failed
+ERROR:root:Upload attempt 2 failed: Upload failed
+ERROR:root:Upload attempt 3 failed: Upload failed
+INFO:root:Successfully uploaded test_path to test_bucket/test_object
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_123825.png to mypublicbucket1234567809/screenshots/20240826_123825.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_123927.png to mypublicbucket1234567809/screenshots/20240826_123927.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_124909.png to mypublicbucket1234567809/screenshots/20240826_124909.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_125010.png to mypublicbucket1234567809/screenshots/20240826_125010.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_125112.png to mypublicbucket1234567809/screenshots/20240826_125112.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_125213.png to mypublicbucket1234567809/screenshots/20240826_125213.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_130556.png to mypublicbucket1234567809/screenshots/20240826_130556.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_133915.png to mypublicbucket1234567809/screenshots/20240826_133915.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_134016.png to mypublicbucket1234567809/screenshots/20240826_134016.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_134118.png to mypublicbucket1234567809/screenshots/20240826_134118.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_134704.png to mypublicbucket1234567809/screenshots/20240826_134704.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_150133.png to mypublicbucket1234567809/screenshots/20240826_150133.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_150234.png to mypublicbucket1234567809/screenshots/20240826_150234.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_150520.png to mypublicbucket1234567809/screenshots/20240826_150520.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_093713.png to mypublicbucket1234567809/screenshots/20240826_093713.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_093815.png to mypublicbucket1234567809/screenshots/20240826_093815.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_151252.png to mypublicbucket1234567809/screenshots/20240826_151252.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_151354.png to mypublicbucket1234567809/screenshots/20240826_151354.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_153232.png to mypublicbucket1234567809/screenshots/20240826_153232.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_153334.png to mypublicbucket1234567809/screenshots/20240826_153334.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_153436.png to mypublicbucket1234567809/screenshots/20240826_153436.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_153538.png to mypublicbucket1234567809/screenshots/20240826_153538.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_162730.png to mypublicbucket1234567809/screenshots/20240826_162730.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_162831.png to mypublicbucket1234567809/screenshots/20240826_162831.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_162932.png to mypublicbucket1234567809/screenshots/20240826_162932.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_163033.png to mypublicbucket1234567809/screenshots/20240826_163033.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_195548.png to mypublicbucket1234567809/screenshots/20240826_195548.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_195649.png to mypublicbucket1234567809/screenshots/20240826_195649.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_195750.png to mypublicbucket1234567809/screenshots/20240826_195750.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_143546.png to mypublicbucket1234567809/screenshots/20240826_143546.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_143739.png to mypublicbucket1234567809/screenshots/20240826_143739.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_143840.png to mypublicbucket1234567809/screenshots/20240826_143840.png
+ERROR:root:Upload attempt 1 failed: expected string or bytes-like object, got 'NoneType'
+ERROR:root:Upload attempt 2 failed: expected string or bytes-like object, got 'NoneType'
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_204351.png to mypublicbucket1234567809/screenshots/20240826_204351.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_204452.png to mypublicbucket1234567809/screenshots/20240826_204452.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_151713.png to mypublicbucket1234567809/screenshots/20240826_151713.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_151815.png to mypublicbucket1234567809/screenshots/20240826_151815.png
+INFO:root:Successfully uploaded app/assets/screenshots\screenshot_20240826_152103.png to mypublicbucket1234567809/screenshots/20240826_152103.png
