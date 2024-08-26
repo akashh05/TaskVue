@@ -10,32 +10,32 @@ Work Status Agent is a desktop application that monitors user activity, captures
 
 ## Project Structure
 
-WorkStatusAgentApp/
-│
-├── app/
-│   ├── __init__.py
-│   ├── gui.py
-│   ├── monitoring.py
-│   ├── utils.py
-│   ├── config/
-│   │   ├── __init__.py
-│   │   ├── poller.py
-│   │   └── settings.py
-│   └── assets/
-│       ├── screenshots/
-│       └── logs/
-│
-├── tests/
-│   ├── __init__.py
-│   ├── test_gui.py
-│   ├── test_integration.py  # Integration tests
-│   ├── test_monitoring.py   # Unit tests for the monitoring module
-│   ├── test_poller.py
-│   ├── test_utils.py 
-│  
-├── main.py
-├── requirements.txt
-└── README.md
+    WorkStatusAgentApp/
+    │
+    ├── app/
+    │   ├── __init__.py
+    │   ├── gui.py
+    │   ├── monitoring.py
+    │   ├── utils.py
+    │   ├── config/
+    │   │   ├── __init__.py
+    │   │   ├── poller.py
+    │   │   └── settings.py
+    │   └── assets/
+    │       ├── screenshots/
+    │       └── logs/    
+    │
+    ├── tests/
+    │   ├── __init__.py
+    │   ├── test_gui.py
+    │   ├── test_integration.py  # Integration tests
+    │   ├── test_monitoring.py   # Unit tests for the monitoring module
+    │   ├── test_poller.py
+    │   ├── test_utils.py 
+    │  
+    ├── main.py
+    ├── requirements.txt
+    └── README.md
 
 ## Installation 
 
