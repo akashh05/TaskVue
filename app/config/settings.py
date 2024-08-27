@@ -6,7 +6,7 @@ class Settings:
             "aws_access_key": "",
             "aws_secret_key": "",
             "region_name": "ap-south-1",
-            "timezone": "UTC",
+            "timezone": "Asia/Kolkata",
             "capture_screenshots": True,
         }
 
