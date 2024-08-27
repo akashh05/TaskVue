@@ -10,7 +10,7 @@ Work Status Agent is a desktop application that monitors user activity, captures
 
 ## Project Structure
 
-    WorkStatusAgentApp/
+    Python-Agent-Project/
     │
     ├── app/
     │   ├── __init__.py
