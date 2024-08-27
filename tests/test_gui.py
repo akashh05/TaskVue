@@ -46,7 +46,7 @@ def run_gui_test():
         app.aws_region_var.set("us-west-2")
         
         # Set the Timezone
-        app.timezone_var.set("UTC")
+        app.timezone_var.set("Asia/Kolkata")
         
         # Start Monitoring
         app.start_button.invoke()
