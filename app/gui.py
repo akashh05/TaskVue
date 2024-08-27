@@ -57,7 +57,7 @@ class WorkStatusAgentApp:
 
         # Timezone
         ttk.Label(config_frame, text="Timezone:").grid(row=5, column=0, sticky="w")
-        self.timezone_var = tk.StringVar(value="UTC")
+        self.timezone_var = tk.StringVar(value="Asia/Kolkata")
         timezone_combobox = ttk.Combobox(config_frame, textvariable=self.timezone_var, values=all_timezones, state='readonly')
         timezone_combobox.grid(row=5, column=1, pady=5, padx=5)
 
@@ -111,19 +111,16 @@ class WorkStatusAgentApp:
             messagebox.showinfo("Monitoring Stopped", "WorkStatusAgent monitoring has stopped.")
     
     def clear_config(self):
-        """
-        Clear the configuration fields.
-        """
+        #clear configuration using this....
         self.interval_var.set(5)
         self.s3_bucket_var.set("")
         self.aws_access_key_var.set("")
         self.aws_secret_key_var.set("")
         self.aws_region_var.set("ap-south-1")
-        self.timezone_var.set("UTC")
+        self.timezone_var.set("Asia/Kolkata")
         self.capture_screenshots_var.set(True)
         self.start_button.config(state="normal")
         self.stop_button.config(state="disabled")
         if self.monitor:
             self.monitor.stop_monitoring()
             self.monitor = None
-
