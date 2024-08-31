@@ -1,4 +1,4 @@
-## Work Status Agent
+## Vinove_Python-Agent-Project
 
 Work Status Agent is a desktop application that monitors user activity, captures screenshots, and uploads them to an AWS S3 bucket. The application is designed for employees and employers to track work status and ensure productivity.
 
@@ -14,7 +14,7 @@ Work Status Agent is a desktop application that monitors user activity, captures
 
 ## Project Structure
 
-    Python-Agent-Project/
+    Vinove_Python-Agent-Project/
     │
     ├── app/
     │   ├── __init__.py
