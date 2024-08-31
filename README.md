@@ -2,6 +2,10 @@
 
 Work Status Agent is a desktop application that monitors user activity, captures screenshots, and uploads them to an AWS S3 bucket. The application is designed for employees and employers to track work status and ensure productivity.
 
+## Project Zip File
+
+- Zip File :- https://drive.google.com/file/d/1Hdp6uSvuAegHDfTlQCUHh4894TyAXwdJ/view?usp=sharing
+
 ## Features
 
 - Screenshot Capture: Automatically takes screenshots at a user-defined interval.
