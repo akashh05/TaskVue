@@ -1,6 +1,6 @@
-## Vinove_Python-Agent-Project 
+# TaskVue
 
-Work Status Agent is a desktop application that monitors user activity, captures screenshots, and uploads them to an AWS S3 bucket. The application is designed for employees and employers to track work status and ensure productivity.
+TaskVue is a desktop application that monitors user activity, captures screenshots, and uploads them to an AWS S3 bucket. The application is designed for employees and employers to track work status and ensure productivity.
 
 ## Project Zip File
 
@@ -14,7 +14,7 @@ Work Status Agent is a desktop application that monitors user activity, captures
 
 ## Project Structure
 
-    Vinove_Python-Agent-Project/
+    TaskVue/
     │
     ├── app/
     │   ├── __init__.py
@@ -46,8 +46,8 @@ Work Status Agent is a desktop application that monitors user activity, captures
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/akashh05/Python-Agent-Project.git
-    cd workstatusagent
+    git clone https://github.com/akashh05/TaskVue.git
+    cd TaskVue
     ```
 
 2. Install the required Python packages:
